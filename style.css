@@ -1,0 +1,14 @@
+.carousel-item {
+  position: relative;
+  height: 75vh;
+}
+
+.headline_text {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-100%, -50%);
+}
+.headline_but {
+  border-radius: 12px;
+}
